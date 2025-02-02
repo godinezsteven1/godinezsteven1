@@ -59,8 +59,6 @@
 </div>
 
 
-
-
 ###
 
 <br clear="both">
@@ -68,3 +66,15 @@
 <img src="https://raw.githubusercontent.com/godinezsteven1/godinezsteven1/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+- 🔭 I’m currently working on **re Designing inTouchBHL's personal website and am developing a database for them for a custom tech ticket management system.**
+
+- 🌱 I’m currently learning **Ethical Hacking and malware creation for education purposes, figma (I am not the design type), and Pytorch**
+
+- 💬 Ask me about **three.Js, I love a good 3D environment, working with vectors and positioning. It really is beautiful :,)**
+
+- 📫 How to reach me **Please use my personal email: Steven.godin.42@gmail.com and put subject as: [FROM GITHUB]: {Message}**
+
+- ⚡ Fun fact **I am Trilingual, I powerlift, I drive a Harley motorcycle, I WATCH to much anime**
