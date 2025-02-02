@@ -51,9 +51,15 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/godinezsteven/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect:&color=0077B5&logoColor=white&labelColor=purple&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect:&color=0077B5&logoColor=white&labelColor=purple&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://godinezdevtech.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=black&logoColor=white&labelColor=gray&style=for-the-badge" height="35" alt="portfolio link" />
   </a>
 </div>
+
+
+
 
 ###
 
