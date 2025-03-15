@@ -77,4 +77,4 @@
 
 - 📫 How to reach me **Please use my personal email: Steven.godin.42@gmail.com and put subject as: [FROM GITHUB]: {Message}**
 
-- ⚡ Fun fact **I am Trilingual, I powerlift, I drive a Harley motorcycle, I WATCH to much anime**
+- ⚡ Fun fact **I am Trilingual, I powerlift, I drive and own 2 Harley motorcycles, I WATCH to much anime**
