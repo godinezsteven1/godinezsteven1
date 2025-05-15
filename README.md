@@ -1,4 +1,4 @@
-<h2 align="center">Hi! My name is Steven Godinez, I'm a Software Engineer</h2>
+<h2 align="center">Hi! My name is Steven Godinez, I'm an aspiring ML Engineer</h2>
 
 ###
 
@@ -69,12 +69,14 @@
 
 
 
-- 🔭 I’m currently working on **re Designing inTouchBHL's personal website and am developing a database for them for a custom tech ticket management system.**
+- 🔭 I’m currently working as a Software Engineer Intern with Genesys**
 
-- 🌱 I’m currently learning **Ethical Hacking and malware creation for education purposes, figma (I am not the design type), and Pytorch**
+- 🤓 Currently advancing my skills in **Artificial Intelligence, with a focus on applied Machine Learning.**
+
+- 🌱 Actively developing and fine-tuning AI models, with hands-on work in Machine Learning pipelines.
 
 - 💬 Ask me about **three.Js, I love a good 3D environment, working with vectors and positioning. It really is beautiful :,)**
 
 - 📫 How to reach me **Please use my personal email: Steven.godin.42@gmail.com and put subject as: [FROM GITHUB]: {Message}**
 
-- ⚡ Fun fact **I am Trilingual, I powerlift, I drive and own 2 Harley motorcycles, I WATCH to much anime**
+- ⚡ Fun facts **I am Trilingual, I powerlift, I drive and own 2 Harley motorcycles, I WATCH to much anime**
