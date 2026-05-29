@@ -69,7 +69,7 @@
 
 
 
-- 🔭 I’m currently working as a Software Engineer Intern with **Genesys**
+- 🔭 I’m a previous Software Engineer Intern at **Genesys**
 
 - 🤓 Currently advancing my skills in **Artificial Intelligence, with a focus on applied Machine Learning.**
 
