@@ -1,82 +1,122 @@
-<h2 align="center">Hi! My name is Steven Godinez, I'm an aspiring ML Engineer</h2>
+<h1 align="center">Hi 👋, I'm Steven Godinez</h1>
 
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godinezsteven1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=godinezsteven1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/godinezsteven1/godinezsteven1/output/snake.svg" alt="GitHub contribution snake animation" />
 </div>
 
-###
+<br>
 
-<img align="right" height="150" src="https://i.imgur.com/cqNn1AB.gif"  />
+<h3 align="center">
+Software Engineer | AI/ML | Distributed Systems | Edge AI
+</h3>
 
-###
+<p align="center">
+  Computer Science & Mathematics @ Northeastern University
+  <br>
+  Building intelligent systems from distributed backend infrastructure to real-time edge AI.
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/godinezsteven/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect:&color=0077B5&logoColor=white&labelColor=purple&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+<div align="center">
   <a href="https://godinezdevtech.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=black&logoColor=white&labelColor=gray&style=for-the-badge" height="35" alt="portfolio link" />
+    <img src="https://img.shields.io/badge/Portfolio-godinezdevtech.com-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/godinezsteven/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Steven%20Godinez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Steven.godin.42@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
+<br>
 
-###
+## 👨‍💻 About Me
 
-<br clear="both">
+- 🎓 Studying **Computer Science & Mathematics** at Northeastern University
+- 💻 Former **Software Engineer Intern @ Genesys**, building production Java microservices and cloud analytics systems
+- 🤖 Interested in **Machine Learning, Computer Vision, Edge AI, and intelligent backend systems**
+- 🧠 Former **Teaching Assistant for Artificial Intelligence (CS4100)** at Northeastern
+- 🔬 Currently building **Argus**, a real-time edge AI intrusion detection system running on NVIDIA Jetson
+- ⚙️ I enjoy working across the stack — from **distributed Java services** to **GPU-accelerated ML inference**
 
-<img src="https://raw.githubusercontent.com/godinezsteven1/godinezsteven1/output/snake.svg" alt="Snake animation" />
+<br>
 
-###
+## 🛠️ Tech Stack
 
+### Languages
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,postgres" alt="Java, Python, JavaScript, PostgreSQL" />
+</p>
 
-- 🔭 I’m a previous Software Engineer Intern at **Genesys**
+### AI / Machine Learning
 
-- 🤓 Currently advancing my skills in **Artificial Intelligence, with a focus on applied Machine Learning.**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV" />
+</p>
 
-- 🌱 Actively developing and fine-tuning AI models, with hands-on work in Machine Learning pipelines.
+**Machine Learning • Deep Learning • Computer Vision • NLP • CUDA • YOLO**
 
-- 💬 Ask me about **three.Js, I love a good 3D environment, working with vectors and positioning. It really is beautiful :,)**
+### Backend / Infrastructure
 
-- 📫 How to reach me **Please use my personal email: Steven.godin.42@gmail.com and put subject as: [FROM GITHUB]: {Message}**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,kafka,linux,maven,git,github" alt="AWS, Docker, Jenkins, Kafka, Linux, Maven, Git, GitHub" />
+</p>
 
-- ⚡ Fun facts **I am Trilingual, I powerlift, I drive and own 2 Harley motorcycles, I WATCH to much anime**
+**REST APIs • Microservices • Distributed Systems • Apache Flink • PostgreSQL • CI/CD**
+
+<br>
+
+## 🚀 Featured Projects
+
+### 🛡️ Argus — Edge AI Intrusion Detection System
+
+**Python • NVIDIA Jetson Orin Nano • YOLOv8 • OpenCV • CUDA • InsightFace**
+
+Real-time edge AI system performing identity-aware threat assessment using computer vision, semantic scene parsing, and contextual reasoning.
+
+- 👁️ Real-time object detection and multi-object tracking
+- 🧑 Face recognition and identity resolution
+- 🧠 Semantic scene representation
+- 🚨 Context-aware threat assessment
+- ⚡ GPU-accelerated inference on NVIDIA Jetson
+
+**[View Argus →](https://github.com/godinezsteven1/Argus)**
+
+---
+
+### 🤟 AI Sign Language Interpreter
+
+**Python • TensorFlow • PyTorch • OpenCV • NLP • Hidden Markov Models**
+
+End-to-end sign language translation system combining CNN-based gesture recognition with a custom NLP pipeline.
+
+- 🤖 CNN-based gesture recognition
+- 🧠 Bigram Hidden Markov Model
+- 🔡 Viterbi decoding
+- 📊 Automated language-data pipeline
+- 🎯 95% gesture-recognition accuracy
+
+**[View Project →](https://github.com/godinezsteven1/AI-SignLanguage)**
+
+<br>
+
+## 🌎 Outside of Code
+
+- 🗣️ Trilingual
+- 🏋️ Powerlifting
+- 🏍️ Harley-Davidson motorcycles
+- 🎌 Probably watching too much anime
+
+<br>
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+I'm always interested in talking about software engineering, AI/ML, computer vision, distributed systems, or interesting projects.
+
+**[Portfolio](https://godinezdevtech.com) • [LinkedIn](https://www.linkedin.com/in/godinezsteven/)**
+
+</div>
